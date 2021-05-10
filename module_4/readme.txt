@@ -2,6 +2,13 @@
                                 
 SkillFactory. Модуль 4. DSPR-30. Андрей Сорокин. email:andrew.b.sorokin@gmail.com
 
+Описание файлов:
+flights.sql - решение заданий
+dataset.sql - sql для итогового датасета
+airflights.csv - итоговый дотасет
+flights_without_losses.ipynb - анализ доходности
+
+
 Структура датасета:
 
 flight_id - идентификатор рейса
