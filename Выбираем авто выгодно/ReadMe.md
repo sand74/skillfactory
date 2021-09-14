@@ -1,5 +1,6 @@
 # Выбираем авто вгодно
-- Автор: Сорокин Андрей Борисович
+- Автор: Сорокин Андрей Борисович 
+- Kaggle nick - Andrei Sorokin
 - Группа - DSPR-30
 - email: andrew.b.sorokin@gmail.com
 - Score: 14.54634
