@@ -1,12 +1,15 @@
 # Выбираем авто вгодно
-Автор: Сорокин Андрей Борисович
-Группа - DSPR-30
-email: andrew.b.sorokin@gmail.com
+- Автор: Сорокин Андрей Борисович 
+- Kaggle nick - Andrei Sorokin
+- Группа - DSPR-30
+- email: andrew.b.sorokin@gmail.com
+- Score: 14.54634
+- Место в LB: 61
 
 ## Цель проекта - прогнозирование стоимости автомобиля по характеристикам.
 ## Файлы
-grabber.ipynb - модуль парсинга страниц с auto.ru
-sf-dst-car-price-prediction-by-sand.ipynb - модуль решения
+- grabber.ipynb - модуль парсинга страниц с auto.ru
+- sf-dst-car-price-prediction-by-sand.ipynb - модуль решения
 
 ## План решения
 - Анализ тестового набора для определения параметров выборки с сайита auto.ru
