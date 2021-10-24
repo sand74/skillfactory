@@ -5,7 +5,7 @@ email: andrew.b.sorokin@gmail.com
 
 ## Цель проекта - прогнозирование стоимости автомобиля по характеристикам .
 ## Файлы
-sf-dst-car-price-part2-by-sand-last.ipynb - модуль решения
+sf-dst-car-price-part2-by-sand.ipynb - модуль решения
 car-price-train_profile.html - pandas profiler report (for EDA)
 
 ## План решения
